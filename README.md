@@ -3,5 +3,5 @@ Bu mini tool ile MP3 adlı klasörde ne kadar MP3 dosyası var ise hepsini tek b
 Wav, Flac veya Ogg uzantılı dosyalara dönüştürebilirsiniz. 
 
 
-#Offline şekilde kullanılabilir.
+# Offline şekilde kullanılabilir.
 İnternet bağlantısı olmadan rahatça kullanılabilir.
