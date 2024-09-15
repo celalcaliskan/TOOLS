@@ -9,7 +9,7 @@ Wav, Flac veya Ogg uzantılı dosyalara dönüştürebilirsiniz.
 
 ![image](https://github.com/user-attachments/assets/00f0405e-ce65-4925-bbb7-fb2d804c6274)
 
-Seçim yapıldıktan sonra ENTER tuşuna basıldığında hızlı bir şekilde tüm MP3'ler dönüşüme başlayacaktır. Windows 10 ve 11'de Test edilmiştir. Hiçbir gereksinime ihtiyaç duymaz.
+Seçim yapıldıktan sonra ENTER tuşuna basıldığında hızlı bir şekilde tüm MP3'ler dönüşüme başlayacaktır. Windows 10 ve 11'de Test edilmiştir. Hiçbir gereksinime ihtiyaç duymaz. (Güncel bir Windows sürümü yeterlidir.)
 
 # İndirme Linki
 https://mega.nz/file/T6IAlQgK#kFG9he0ov8jaXy89aMWvSH2-5HvJQYaKkvN212ZJV20
